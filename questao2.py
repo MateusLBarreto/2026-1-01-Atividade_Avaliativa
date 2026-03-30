@@ -1,0 +1,1 @@
+print ("Meu nome é Fulano. \nEu tenho 18 anos.\nEstou no curso de Informática para Internet.")

@@ -1,0 +1,1 @@
+print ("*** Cardápio ***\n1. Piza\n2. Hambúrguer\n3. Suco\n*** Bom Appetite! ***")
